@@ -1,3 +1,8 @@
+/*!
+  * Password Generator (https://www.soipro.com)
+  * Copyright 2022 Authors (https://fb.com/info.nvh)
+  * Licensed free source
+  */
 function s_(a) {
     document.getElementById(a).focus();
     document.getElementById(a).select()
