@@ -1,0 +1,18 @@
+{
+  "output": "..",
+  "locals": {
+    "url": "http://www.soipro.com",
+    "name": "Online Tools",
+    "owner": "admin@soipro.com",
+    "description": "Online tools writing by JavaScript"
+  },
+  "plugins": [
+  ],
+  "pug": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  }
+}
